@@ -1,0 +1,44 @@
+#banner-prin {
+  width: 100%;
+  margin-top: 0;
+}
+
+#btn-nav {
+  height: 70px;
+}
+
+/* Barra de Menus de Navegación*/
+#menu-principal {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background: #254117;
+  overflow: hidden;
+
+}
+
+.lm {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+  border-right: 1px solid;
+
+}
+/*
+.lm:visited {
+  background-color: white;
+  color: red;
+
+
+}
+*/
+
+.lm:hover {
+  background-color: #72a8a8;
+  color: #0a2501;
+  font-style: bold;
+
+}
